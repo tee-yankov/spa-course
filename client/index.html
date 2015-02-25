@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en" ng-app="myApp">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Single-Page App</title>
+        <link rel="stylesheet" href="/bower_components/bootstrap/dist/css/bootstrap.min.css">
+        <!-- inject:css -->
+        <!-- endinject -->
+        <base href="/">
+    </head>
+
+    <body>
+        <navbar></navbar>
+        <div ui-view></div>
+
+        <script src="/bower_components/angular/angular.min.js"></script>
+        <script src="/bower_components/angular-ui-router/release/angular-ui-router.min.js"></script>
+        <!--  inject:js  -->
+        <!--  endinject-->
+    </body>
+</html>

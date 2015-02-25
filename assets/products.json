@@ -1,0 +1,112 @@
+[
+    {
+        "name": "Amethyst",
+        "price": 12,
+        "description": "A shiny gem",
+        "image": "/assets/amethyst.jpg",
+        "id": 0,
+        "reviews": [
+            {
+                "author": "Richard A. Knaak",
+                "message": "I'm a gem connoisseur myself but of all gems I would get this one."
+            }
+        ]
+    },
+    {
+        "name": "Opal",
+        "price": 20,
+        "description": "An even shinier gem",
+        "image": "/assets/opal.jpg",
+        "id": 1,
+        "reviews": [
+            {
+                "author": "Some Guy",
+                "message": "Another guy said this was not a good gem. I care to digress. This is a great gem."
+            }
+        ]
+    },
+    {
+        "name": "Ruby",
+        "price": 9999,
+        "description": "The shiniest gem",
+        "image": "/assets/ruby.jpg",
+        "id": 2,
+        "reviews": [
+            {
+                "author": "Jonathan Cowell",
+                "message": "It's a really solid gem!"
+            },
+            {
+                "author": "H. P. Lovecraft",
+                "message": "MRRRHGLLRHHGRRRRL!!!"
+            },
+            {
+                "author": "Sam Smith",
+                "message": "What a gem, indeed!"
+            }
+        ]
+    },
+    {
+        "name": "Amethyst",
+        "price": 12,
+        "description": "A shiny gem",
+        "image": "/assets/amethyst.jpg",
+        "id": 3
+    },
+    {
+        "name": "Opal",
+        "price": 20,
+        "description": "An even shinier gem",
+        "image": "/assets/opal.jpg",
+        "id": 4
+    },
+    {
+        "name": "Ruby",
+        "price": 9999,
+        "description": "The shiniest gem",
+        "image": "/assets/ruby.jpg",
+        "id": 5
+    },
+    {
+        "name": "Amethyst",
+        "price": 12,
+        "description": "A shiny gem",
+        "image": "/assets/amethyst.jpg",
+        "id": 3
+    },
+    {
+        "name": "Opal",
+        "price": 20,
+        "description": "An even shinier gem",
+        "image": "/assets/opal.jpg",
+        "id": 4
+    },
+    {
+        "name": "Ruby",
+        "price": 9999,
+        "description": "The shiniest gem",
+        "image": "/assets/ruby.jpg",
+        "id": 5
+    },
+    {
+        "name": "Amethyst",
+        "price": 12,
+        "description": "A shiny gem",
+        "image": "/assets/amethyst.jpg",
+        "id": 3
+    },
+    {
+        "name": "Opal",
+        "price": 20,
+        "description": "An even shinier gem",
+        "image": "/assets/opal.jpg",
+        "id": 4
+    },
+    {
+        "name": "Ruby",
+        "price": 9999,
+        "description": "The shiniest gem",
+        "image": "/assets/ruby.jpg",
+        "id": 5
+    }
+]
