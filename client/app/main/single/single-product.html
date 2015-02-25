@@ -1,0 +1,24 @@
+<div class="container-fluid">
+    <div class="panel panel-default text-center">
+        <div class="panel-heading">
+            <h3>{{vm.product.name}}</h3>
+        </div>
+        <div class="panel-body">
+            <img class="img-responsive center-block" ng-src="{{vm.product.image}}">
+            <h3>{{vm.product.price}}</h3>
+            <ul class="nav nav-tabs" ng-init="vm.currentTab = 1">
+                <li role="presentation" ng-class="{'active': vm.currentTab === 1}" ng-click="vm.currentTab = 1">
+                    <a>Home</a>
+                </li>
+                <li role="presentation" ng-class="{'active': vm.currentTab === 2}" ng-click="vm.currentTab = 2"><a>Profile</a></li>
+                <li  role="presentation" ng-class="{'active': vm.currentTab === 3}" ng-click="vm.currentTab = 3"><a>Messages</a></li>
+            </ul>
+            <div ng-switch="vm.currentTab">
+                <p ng-switch-when="1">{{vm.product.description}}</p>
+                <div class="" ng-switch-when="2">
+                    {{vm.product.reviews}}
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
