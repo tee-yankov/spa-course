@@ -8,10 +8,10 @@
             <h3>{{vm.product.price}}</h3>
             <ul class="nav nav-tabs" ng-init="vm.currentTab = 1">
                 <li role="presentation" ng-class="{'active': vm.currentTab === 1}" ng-click="vm.currentTab = 1">
-                    <a>Home</a>
+                    <a href>Home</a>
                 </li>
-                <li role="presentation" ng-class="{'active': vm.currentTab === 2}" ng-click="vm.currentTab = 2"><a>Profile</a></li>
-                <li  role="presentation" ng-class="{'active': vm.currentTab === 3}" ng-click="vm.currentTab = 3"><a>Messages</a></li>
+                <li role="presentation" ng-class="{'active': vm.currentTab === 2}" ng-click="vm.currentTab = 2"><a href>Profile</a></li>
+                <li  role="presentation" ng-class="{'active': vm.currentTab === 3}" ng-click="vm.currentTab = 3"><a href>Messages</a></li>
             </ul>
             <div ng-switch="vm.currentTab">
                 <p ng-switch-when="1">{{vm.product.description}}</p>

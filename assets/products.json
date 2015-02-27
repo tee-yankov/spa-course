@@ -72,41 +72,41 @@
         "price": 12,
         "description": "A shiny gem",
         "image": "/assets/amethyst.jpg",
-        "id": 3
+        "id": 6
     },
     {
         "name": "Opal",
         "price": 20,
         "description": "An even shinier gem",
         "image": "/assets/opal.jpg",
-        "id": 4
+        "id": 7
     },
     {
         "name": "Ruby",
         "price": 9999,
         "description": "The shiniest gem",
         "image": "/assets/ruby.jpg",
-        "id": 5
+        "id": 8
     },
     {
         "name": "Amethyst",
         "price": 12,
         "description": "A shiny gem",
         "image": "/assets/amethyst.jpg",
-        "id": 3
+        "id": 9
     },
     {
         "name": "Opal",
         "price": 20,
         "description": "An even shinier gem",
         "image": "/assets/opal.jpg",
-        "id": 4
+        "id": 10
     },
     {
         "name": "Ruby",
         "price": 9999,
         "description": "The shiniest gem",
         "image": "/assets/ruby.jpg",
-        "id": 5
+        "id": 11
     }
 ]
