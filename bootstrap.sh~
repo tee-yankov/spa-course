@@ -9,5 +9,5 @@ cd /vagrant
 sudo npm install -g bower gulp
 npm install
 bower install --allow-root --config.interactive=false
-echo "cd /vagrant" >> /home/vagrant/.bashrc
-echo "gulp serve" >> /home/vagrant/.bashrc
+echo "cd /vagrant" >> ~/.bashrc
+echo "gulp serve" >> ~/.bashrc
