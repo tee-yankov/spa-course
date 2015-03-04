@@ -7,7 +7,7 @@
 ## How-To:
 First, download the project and unpack it into a directory (skip if you're using 'git clone').
 
-Then execute the following commands in a terminal in the project's root folder:
+Then execute the following command in a terminal in the project's root folder:
 
     vagrant up
 Then wait a few minutes for the vagrant box to be installed. This might take a long time the first time but will be faster afterwards.
