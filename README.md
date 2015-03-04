@@ -1,8 +1,8 @@
 #A simple intro application to SPAs.
 
 ## Prerequisites:
-* Vagrant
-* VirtualBox (or any other supported provider)
+* [Vagrant](http://www.vagrantup.com/downloads.html)
+* [VirtualBox](https://www.virtualbox.org/wiki/Downloads) (or any other supported provider)
 
 ## How-To:
 First, download the project and unpack it into a directory (skip if you're using 'git clone').
