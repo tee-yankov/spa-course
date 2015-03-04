@@ -6,9 +6,11 @@
 
 ## How-To:
 Execute the following commands in the project's root folder:
+
     vagrant up
 Then wait a few minutes for the vagrant box to be installed. This might take a long time the first time but will be faster afterwards.
 After that's done:
+
     vagrant ssh
     cd /vagrant
     gulp serve
