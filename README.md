@@ -2,7 +2,7 @@
 
 ## Prerequisites:
 * Vagrant
-* VirtualBox (or any other support provider)
+* VirtualBox (or any other supported provider)
 
 ## How-To:
 Execute the following commands in the project's root folder:
