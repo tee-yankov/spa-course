@@ -5,7 +5,8 @@
 * VirtualBox (or any other supported provider)
 
 ## How-To:
-Execute the following commands in the project's root folder:
+First, download the project and unpack it into a directory (skip if you're using 'git clone').
+Then execute the following commands in the project's root folder:
 
     vagrant up
 Then wait a few minutes for the vagrant box to be installed. This might take a long time the first time but will be faster afterwards.
